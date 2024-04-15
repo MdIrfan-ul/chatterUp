@@ -50,7 +50,7 @@ ChatterUp is an interactive real-time chat application built to facilitate seaml
     - Add your MongoDB connection string:
 
     ```
-    MONGODB_URI=your_mongodb_connection_string
+    MONGODB_URL=your_mongodb_connection_string
     ```
 
 5. **Start the application**
